@@ -33,6 +33,9 @@ You can get the data used in this project here https://www.kaggle.com/sonalising
 - Power BI
 - Trello
 
+## Power BI Dashboard
+See the Loan Status file to view the dashboard
+
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns please do make a contribution to the code or 
 message me via LinkedIn. www.linkedin.com/in/faith-kihara-825b57156
