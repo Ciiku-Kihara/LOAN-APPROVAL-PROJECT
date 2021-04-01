@@ -13,7 +13,7 @@ This project was aimed at determining whether gender, credit history and the are
 This repository contains a Google Collaboratory notebook that contains Python code that we used to analyze our dataset.
 In this particular analysis, the target variable was loan status and the independent variables we worked with were credit history, gender and property area.
 We performed Exploratory Data Analysis to get a general feel of the other variables and their relationships. We used statistical methods (more particularly 
-hypothesis testing) to determine if there is any statistically significant relationship between our target variable and independent variable.
+hypothesis testing) to determine if there is any statistically significant relationship between our target variable and independent variables.
 We used the Chi-sqaure test mainly because we were working with categorical variables. 
 
 ## Experimental design
